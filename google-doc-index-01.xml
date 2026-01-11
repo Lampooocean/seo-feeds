@@ -3,13 +3,20 @@
   <channel>
     <title>Google Doc Index Feed</title>
     <link>https://docs.google.com/document/d/e/2PACX-1vSm6tdf4NYrYLCiTHoKU9yoWcIG4EGJ76EGuKJmVcu6r_ef1lDDwyltojnQAAtWqJOI1m4CiG5VlMdB/pub</link>
-    <description>Reference document for backlink discovery</description>
+    <description>Reference documents for backlink discovery</description>
 
     <item>
-      <title>Reference Index Document</title>
+      <title>Reference Index Document 01</title>
       <link>https://docs.google.com/document/d/e/2PACX-1vSm6tdf4NYrYLCiTHoKU9yoWcIG4EGJ76EGuKJmVcu6r_ef1lDDwyltojnQAAtWqJOI1m4CiG5VlMdB/pub</link>
       <pubDate>Mon, 12 Jan 2026 10:00:00 GMT</pubDate>
     </item>
 
+    <item>
+      <title>Reference Index Document 02</title>
+      <link>https://docs.google.com/document/d/e/2PACX-1vSvVFuPLzDHZY8jJc24Iwc1CFz-6v51dkDrN7G5_-Aps6_hIwIx6Hji41--goILxZ-dND_es8WVDbqV/pub</link>
+      <pubDate>Mon, 12 Jan 2026 10:05:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
+
