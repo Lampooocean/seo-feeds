@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Google Doc Index Feed</title>
+    <link>https://docs.google.com/document/d/e/2PACX-1vSm6tdf4NYrYLCiTHoKU9yoWcIG4EGJ76EGuKJmVcu6r_ef1lDDwyltojnQAAtWqJOI1m4CiG5VlMdB/pub</link>
+    <description>Reference document for backlink discovery</description>
+
+    <item>
+      <title>Reference Index Document</title>
+      <link>https://docs.google.com/document/d/e/2PACX-1vSm6tdf4NYrYLCiTHoKU9yoWcIG4EGJ76EGuKJmVcu6r_ef1lDDwyltojnQAAtWqJOI1m4CiG5VlMdB/pub</link>
+      <pubDate>Mon, 12 Jan 2026 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
